@@ -1,3 +1,2 @@
-git update-index --chmod=+x 0-run
 #!/bin/bash
 python3 $PYFILE
